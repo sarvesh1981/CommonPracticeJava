@@ -1,0 +1,2 @@
+# CommonPracticeJava
+Java Core
