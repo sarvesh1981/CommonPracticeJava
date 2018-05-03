@@ -1,2 +1,2 @@
 # CommonPracticeJava
-Java Core
+Java Core demo
