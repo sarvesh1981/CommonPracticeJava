@@ -3,7 +3,6 @@ package com.practice.java.string;
 public class PalindromeExample {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		StringBuilder checkPalindrome = new StringBuilder("ABCBA");
 		StringBuilder temp=checkPalindrome.reverse();
 		if(temp.equals(checkPalindrome)) {
