@@ -6,6 +6,8 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
+
+import javax.print.attribute.UnmodifiableSetException;
 public class IteratorExceptionExample {
 
 	public static void main(String[] args) {
@@ -41,6 +43,8 @@ public class IteratorExceptionExample {
 			}
 			
 		System.out.println(">>>>"+lst);
+		//UnmodifiableMa
+		Collections.unmodifiableList(lst);
 		
 		/*List<String> list = new ArrayList<>();
         list.add("1");

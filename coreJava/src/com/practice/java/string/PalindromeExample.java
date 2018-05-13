@@ -3,6 +3,7 @@ package com.practice.java.string;
 public class PalindromeExample {
 
 	public static void main(String[] args) {
+		//Verifying palindrome
 		StringBuilder checkPalindrome = new StringBuilder("ABCBA");
 		StringBuilder temp=checkPalindrome.reverse();
 		if(temp.equals(checkPalindrome)) {

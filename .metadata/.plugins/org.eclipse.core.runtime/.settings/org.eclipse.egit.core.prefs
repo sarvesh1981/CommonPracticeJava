@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=C\:\\Users\\sarvsinh\\Documents\\2018JSearchWorkSpace\\.git;
-GitRepositoriesView.GitDirectories.relative=.git;
+GitRepositoriesView.GitDirectories=C\:\\Users\\sarvsinh\\.git;C\:\\Users\\sarvsinh\\Documents\\2018JSearchWorkSpace\\.git;
+GitRepositoriesView.GitDirectories.relative=C\:\\Users\\sarvsinh\\.git;.git;
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
